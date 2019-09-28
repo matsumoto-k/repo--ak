@@ -1,0 +1,13 @@
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\bin\Debug\netstandard2.0\ak.deps.json
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\bin\Debug\netstandard2.0\ak.dll
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\bin\Debug\netstandard2.0\ref\ak.dll
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\bin\Debug\netstandard2.0\ak.pdb
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\ak.csprojAssemblyReference.cache
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\ak.AssemblyInfoInputs.cache
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\ak.AssemblyInfo.cs
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\ak.dll
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\ref\ak.dll
+C:\Users\ncdl7\Source\Repos\repo--ak2\ak\ak\ak\obj\Debug\netstandard2.0\ak.pdb
